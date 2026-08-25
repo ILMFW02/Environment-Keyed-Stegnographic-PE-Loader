@@ -1,4 +1,3 @@
-# Environment-Keyed Steganographic Loader
 # Environment-Keyed Steganographic PE Loader
 
 A Windows malware project that combines environmental keying, Shamir Secret Sharing, AES encryption, and PNG steganography.
